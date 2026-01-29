@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.java.example</groupId>
-    <artifactId>java_8_feature_examples</artifactId>
+    <artifactId>lemda_examples</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
